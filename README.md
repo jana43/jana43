@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jana43
-- 👀 I’m interested in application , game development , web development by django and game development
-- 🌱 I’m currently learning python , react native , c++ 
+- 👀 I’m interested in game , app and web development ( by django )
+- 🌱 I’m currently learning c++ , java 
 - 💞️ I’m looking to collaborate on security tools
 - 📫 How to reach me ...email me 
 
